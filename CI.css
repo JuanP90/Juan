@@ -14,4 +14,8 @@ p{
 }
 #p1{
     display: inline-block;
+    vertical-align: top;
+}
+a{
+    color: crimson;
 }
