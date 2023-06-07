@@ -13,8 +13,9 @@ p{
  width: 100%;
 }
 #p1{
-    display: inline-block;
-    vertical-align: top;
+ width: 50%;
+ display: inline-block;
+ vertical-align: top;
 }
 a{
     color: crimson;
