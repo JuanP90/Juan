@@ -1,6 +1,7 @@
 body{
     background-color: rgb(0, 0, 0);
     color: white;
+    cursor: url('./Marcos.cur'), auto;
 }
 #titulo{
     text-align: center;
@@ -19,4 +20,11 @@ p{
 }
 a{
     color: crimson;
+}
+#RV{
+    width: 30%;
+ display: inline-block;
+}
+#p2{
+width: 40%;
 }
