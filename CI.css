@@ -32,4 +32,9 @@ display: inline-block;
 }
 #S{
     width: 40%;
+    display: inline-block;
 }
+#rs{
+    width: 10%;
+}
+
